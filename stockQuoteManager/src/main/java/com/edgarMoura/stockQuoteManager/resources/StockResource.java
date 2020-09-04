@@ -20,8 +20,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.edgarMoura.stockQuoteManager.Services.StockService;
 import com.edgarMoura.stockQuoteManager.models.Stock;
+import com.edgarMoura.stockQuoteManager.services.StockService;
 
 import lombok.AllArgsConstructor;
 

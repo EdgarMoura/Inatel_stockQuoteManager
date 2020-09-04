@@ -1,4 +1,4 @@
-package com.edgarMoura.stockQuoteManager.Services;
+package com.edgarMoura.stockQuoteManager.services;
 
 import java.util.List;
 

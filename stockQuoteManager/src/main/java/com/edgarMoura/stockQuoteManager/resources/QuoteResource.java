@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.edgarMoura.stockQuoteManager.Services.QuoteService;
 import com.edgarMoura.stockQuoteManager.models.Quote;
+import com.edgarMoura.stockQuoteManager.services.QuoteService;
 
 @RestController
 @RequestMapping("/quotes")
